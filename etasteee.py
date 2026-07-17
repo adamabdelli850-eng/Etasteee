@@ -8,8 +8,7 @@ import platform
 import requests
 from datetime import datetime, timedelta
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1362084150609449021/bH6roCbxpk10rh1t5X8DcQy8pnu3thpr0xJmOPt_ceSb1rkTdhsZuZE5hAuWbvUTXGzy"
-
+WEBHOOK_URL = "https://discord.com/api/webhooks/1524012952104079410/RUtlr3L-M9nYfVg86H7ldyDffeqdveOMPFWxVgYH4oUqnMf5AXId2M9Fxm18ht7Mq3OR"
 if platform.system() == "Windows":
     import winsound
     import ctypes
